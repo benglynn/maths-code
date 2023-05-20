@@ -1,0 +1,15 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "Maths scripts and sites for Ivy and Rowan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1 ."
+  },
+  "author": "Ben Glynn",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
